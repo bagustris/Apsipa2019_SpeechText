@@ -14,3 +14,16 @@ In case of the jupyter notebook is not rendered by Github, see the following nbv
 - https://nbviewer.jupyter.org/github/bagustris/interspeech2019_SpeechText/blob/master/code/python_files/speech_emo.ipynb
 - https://nbviewer.jupyter.org/github/bagustris/interspeech2019_SpeechText/blob/master/code/python_files/text_emo.ipynb
 - https://nbviewer.jupyter.org/github/bagustris/interspeech2019_SpeechText/blob/master/code/python_files/speech_text.ipynb
+
+By employing acoustic feature voice parts of speech and word embedding from text we got boost accuracy of 75.49%. Here the list of obtained accuracy from different models (Text+Speech):
+~~~~
+------------------------------
+Model           | Accuracy (%)
+------------------------------
+Conv1D+Dense    | 68.82
+Dense+Dense     | 63.86
+LSTM+Dense      | 75.49 
+-----------------------------
+~~~~
+
+Due to license issue, the script to save acoustic feature is not included, but it can easily implemented by reading the paper (pdf of paper will be uploaded soon)
