@@ -26,4 +26,4 @@ LSTM+Dense      | 75.49
 -----------------------------
 ~~~~
 
-Due to license issue, the script to save acoustic feature is not included, but it can easily implemented by reading the paper (pdf of paper will be uploaded soon)
+<!---Due to license issue, the script to save acoustic feature is not included, but it can easily implemented by reading the paper (pdf of paper will be uploaded soon) -->
