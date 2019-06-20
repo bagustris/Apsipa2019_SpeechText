@@ -1,5 +1,5 @@
 # APSIPA2019_SpeechText
-Repository for code and paper submitted for ~interspeech 2019~ APSIPA 2019:
+Repository for code and paper submitted for APSIPA 2019:
 
 **Speech emotion recognition Using Voice Feature and Text Embedding**
 
