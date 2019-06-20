@@ -11,9 +11,9 @@ Main codes:
 Other (python) files can be explored and run indepently.
 
 In case of the jupyter notebook is not rendered by Github, see the following nbviewer instead:
-- https://nbviewer.jupyter.org/github/bagustris/interspeech2019_SpeechText/blob/master/code/python_files/speech_emo.ipynb
-- https://nbviewer.jupyter.org/github/bagustris/interspeech2019_SpeechText/blob/master/code/python_files/text_emo.ipynb
-- https://nbviewer.jupyter.org/github/bagustris/interspeech2019_SpeechText/blob/master/code/python_files/speech_text.ipynb
+- https://nbviewer.jupyter.org/github/bagustris/Apsipa2019_SpeechText/blob/master/code/python_files/speech_emo.ipynb
+- https://nbviewer.jupyter.org/github/bagustris/Apsipa2019_SpeechText/blob/master/code/python_files/text_emo.ipynb
+- https://nbviewer.jupyter.org/github/bagustris/Apsipa2019_SpeechText/blob/master/code/python_files/speech_text.ipynb
 
 By employing acoustic feature from voice parts of speech and word embedding from text we got boost accuracy of 75.49%. Here the list of obtained accuracy from different models (Text+Speech):
 ~~~~
