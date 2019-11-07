@@ -22,6 +22,7 @@ Model           | Accuracy (%)
 ------------------------------
 Conv1D+Dense    | 68.82
 Dense+Dense     | 63.86
+LSTM+BLSTm      | 69.13
 LSTM+Dense      | 75.49 
 -----------------------------
 ~~~~
