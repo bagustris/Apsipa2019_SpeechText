@@ -1,7 +1,7 @@
 # APSIPA2019_SpeechText
-Repository for code and paper submitted for APSIPA 2019:
+Repository for code, paper, and slide ~submitted~ presented ~for~ at APSIPA 2019:
 
-**Speech emotion recognition Using Voice Feature and Text Embedding**
+**Speech emotion recognition Using Speech Feature and Text Embedding**
 
 Main codes:  
 - [speeh_emo.ipynb](code/python_files/speech_emo.ipynb): for speech emotion recognition
@@ -28,3 +28,9 @@ LSTM+Dense      | 75.49
 ~~~~
 
 <!---Due to license issue, the script to save acoustic feature is not included, but it can easily implemented by reading the paper (pdf of paper will be uploaded soon) -->
+
+## Citation
+~~~latex
+B.T. Atmaja, M. Akagi, K. Shirai. "Speech Emotion Recognition from Speech Feature and Word Embedding", 
+In Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA), IEEE, 2019.
+~~~
