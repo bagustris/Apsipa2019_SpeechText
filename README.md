@@ -20,8 +20,8 @@ By employing acoustic feature from voice parts of speech and word embedding from
 ------------------------------
 Model           | Accuracy (%)
 ------------------------------
-Conv1D+Dense    | 68.82
 Dense+Dense     | 63.86
+Conv1D+Dense    | 68.82
 LSTM+BLSTm      | 69.13
 LSTM+Dense      | 75.49 
 -----------------------------
