@@ -1,7 +1,12 @@
 # APSIPA2019_SpeechText
 Repository for code, paper, and slide ~submitted~ presented ~for~ at APSIPA 2019:
 
-**Speech emotion recognition Using Speech Feature and Text Embedding**
+**Speech emotion recognition Using Speech Feature and Word Embedding**
+
+Pre-processing:   
+Run the following file with some adjusments (location of IEMOCAP data, output file name, etc.).  
+https://github.com/bagustris/Apsipa2019_SpeechText/blob/master/code/python_files/mocap_data_collect.py 
+
 
 Main codes:  
 - [speeh_emo.ipynb](code/python_files/speech_emo.ipynb): for speech emotion recognition
