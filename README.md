@@ -1,7 +1,7 @@
 # APSIPA2019_SpeechText
 Repository for code, paper, and slide ~submitted~ presented ~for~ at APSIPA 2019:
 
-**Speech emotion recognition Using Speech Feature and Word Embedding**
+[**Speech emotion recognition Using Speech Feature and Word Embedding**](https://github.com/bagustris/Apsipa2019_SpeechText/blob/master/apsipa2019_bta.pdf)
 
 Pre-processing:   
 Run the following file with some adjusments (location of IEMOCAP data, output file name, etc.).  
@@ -33,6 +33,10 @@ LSTM+Dense      | 75.49
 ~~~~
 
 <!---Due to license issue, the script to save acoustic feature is not included, but it can easily implemented by reading the paper (pdf of paper will be uploaded soon) -->
+
+## Sample of feature
+Due to Github's limitation, a sample of feature can be downloaded here (voiced feature without SIL removal): 
+https://cloud.degoo.com/share/Ov563dopNnEW14jN_DeBig.
 
 ## Citation
 ~~~latex
