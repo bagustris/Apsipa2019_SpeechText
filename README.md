@@ -37,6 +37,7 @@ LSTM+Dense      | 75.49
 ## Sample of feature
 Due to Github's limitation, a sample of feature can be downloaded here (voiced feature without SIL removal): 
 https://cloud.degoo.com/share/Ov563dopNnEW14jN_DeBig.
+You can use the following script inside `code/python_files` directory to generate that feature file: https://github.com/bagustris/Apsipa2019_SpeechText/blob/master/code/python_files/save_feature.py
 
 ## Citation
 ~~~latex
