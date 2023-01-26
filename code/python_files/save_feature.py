@@ -42,7 +42,7 @@ data_path = '/media/bagus/data01/dataset/IEMOCAP_full_release/'
 with open(data_path + 'data_collected.pickle', 'rb') as handle:
     data2 = pickle.load(handle)
 
-
+speech = [s['signal'] for s in data]   # change speech to speeches if you remove silence using code below
 ## outlier removal
 # delete noisy speech
 #speech = np.delete(speeches, (1061, 1430, 1500, 1552, 1566, 1574, 1575, 1576, 1862, 1863, 1864, 1865, 1868, 1869,
